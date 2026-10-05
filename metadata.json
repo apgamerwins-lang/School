@@ -1,0 +1,6 @@
+{
+  "name": "St. Mary's School, Jorhat",
+  "description": "Official institutional portal for St. Mary's High School, Jorhat, Assam. An English-medium educational institution managed by MSMHC and affiliated with SEBA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
